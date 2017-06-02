@@ -15,7 +15,7 @@ output:
 ```
 $ node dir.js /x/y/z /x/y /x/y/w/q
 /x/y
-$ node ../baz ../../foo/quux ./bizzy
+$ node dir.js ../baz ../../foo/quux ./bizzy
 /foo
 ```
 
