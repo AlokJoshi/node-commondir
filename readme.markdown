@@ -1,3 +1,5 @@
+Build Status[![Build Status](https://travis-ci.org/AlokJoshi/node-commondir.svg?branch=master)](https://travis-ci.org/AlokJoshi/node-commondir)
+
 # commondir
 
 compute the closest common parent directory among an array of directories
